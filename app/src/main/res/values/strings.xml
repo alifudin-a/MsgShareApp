@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MsgShareApp</string>
+    <string name="button">Button</string>
+    <string name="toast1">Show Toast</string>
+</resources>
