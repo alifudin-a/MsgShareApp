@@ -5,16 +5,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    tools:context=".SecondActivity">
+    tools:context=".activities.SecondActivity">
 
     <TextView
         android:id="@+id/txvUserMessage"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
-        android:textAlignment="center"
         android:layout_margin="20dp"
+        android:text="Text View"
+        android:textAlignment="center"
         android:textColor="#EA9B13"
-        android:text="Text View"/>
+        android:textSize="30sp" />
 
 </LinearLayout>
